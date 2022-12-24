@@ -1,7 +1,7 @@
 ---
-title: 'Contact'
+title: 'Обратная связь'
 ---
 
-To contact us, please fill out the form below.
+Чтобы связаться с нами заполните следующую форму.
 
 {{< form >}}
