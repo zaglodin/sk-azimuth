@@ -1,8 +1,8 @@
 baseURL = "https://sk-azimuth.ru"
-title = "Tella"
+title = "Azimuth"
 author = "username"
 languageCode = "en"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ru"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
@@ -52,25 +52,25 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "products"
-    name = "Products"
+    name = "Специализация"
     url = "/products/"
     weight = 1
 
   [[menu.main]]
     identifier = "blog"
-    name = "Blog"
+    name = "Объекты"
     url = "/blog/"
     weight = 2
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "О нас"
     url = "/about/"
     weight = 3
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "Обратная связь"
     url = "/contact/"
     weight = 4
 
